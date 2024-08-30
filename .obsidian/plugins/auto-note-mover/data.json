@@ -1,0 +1,28 @@
+{
+  "trigger_auto_manual": "Manual",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Auxiliary/Dashboards",
+      "tag": "#dashboard",
+      "pattern": ""
+    },
+    {
+      "folder": "Auxiliary/Scopes",
+      "tag": "#scope",
+      "pattern": ""
+    },
+    {
+      "folder": "Auxiliary/Archive",
+      "tag": "#archive",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "Auxiliary/Templates"
+    }
+  ]
+}
