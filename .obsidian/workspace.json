@@ -15,6 +15,7 @@
               "state": {
                 "file": "🏠 Home.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -160,26 +161,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "d4f0457e5ccfa36b",
   "lastOpenFiles": [
+    "Compendium/Test/existing test note.md",
+    "Temporary/open me.md",
     "Auxiliary/Dashboards/📥 Inbox.md",
-    "Auxiliary/Scopes/Inbox - All.md",
     "🏠 Home.md",
+    "Auxiliary/Archive/archived note.md",
+    "Auxiliary/Attachments/Pasted image 20240903064810.png",
+    "Auxiliary/Templates/Scope.md",
+    "Auxiliary/Templates/Dashboard.md",
+    "Auxiliary/Templates/@UNTITLED.md",
+    "Auxiliary/Templates/@TEMPLATE.md",
+    "Compendium/Test",
+    "Compendium/dummy.md",
+    "Auxiliary/Attachments/crow.gif",
+    "Auxiliary/Attachments/anxious.gif",
+    "Auxiliary/Dashboards/🔬Scopes.md",
+    "Auxiliary/Dashboards/🗑️ Archive.md",
+    "Auxiliary/Scopes/Archive - All.md",
+    "Auxiliary/Scopes/Inbox - All.md",
     "Auxiliary/Scopes/Templates - All.md",
     "Auxiliary/Scopes/Scopes - All.md",
     "Auxiliary/Scopes/Dashboards - All.md",
-    "Auxiliary/Scopes/Archive - All.md",
     "Auxiliary/Dashboards/🗺️ Dashboards.md",
-    "Auxiliary/Dashboards/🗑️ Archive.md",
-    "Auxiliary/Dashboards/🔬Scopes.md",
     "Auxiliary/Dashboards/📄Templates.md",
-    "Auxiliary/Templates/Dashboard.md",
-    "Auxiliary/Templates/Scope.md",
-    "Auxiliary/Templates/@UNTITLED.md",
-    "Auxiliary/Templates/@TEMPLATE.md",
     "Temporary/Test.md",
     "Temporary/test.md",
     "📄Templates.md",

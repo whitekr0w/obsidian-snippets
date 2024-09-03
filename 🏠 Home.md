@@ -4,7 +4,7 @@ description: Home note acting as a launch point for the things I do.
 cssclasses:
   - max
 created: 
-modified: 2024-08-30
+modified: 2024-09-03
 aliases: 
 tags:
   - home
@@ -16,4 +16,3 @@ ___
 [[🗺️ Dashboards]] 
 [[ 📄Templates]]
 [[🗑️ Archive]]
-

@@ -2,5 +2,6 @@
   "foldIndent": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "Temporary",
-  "attachmentFolderPath": "Auxiliary/Attachments"
+  "attachmentFolderPath": "Auxiliary/Attachments",
+  "alwaysUpdateLinks": true
 }

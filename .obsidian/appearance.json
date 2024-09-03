@@ -1,5 +1,9 @@
 {
   "cssTheme": "Minimal",
   "theme": "moonstone",
-  "accentColor": "#235594"
+  "accentColor": "#235594",
+  "enabledCssSnippets": [
+    "no-title-css",
+    "canvas-center"
+  ]
 }

@@ -7,7 +7,9 @@
   "buttons",
   "cmdr",
   "homepage",
-  "quickadd",
   "frontmatter-modified-date",
-  "auto-note-mover"
+  "auto-note-mover",
+  "tag-wrangler",
+  "remotely-save",
+  "obsidian-full-calendar"
 ]
